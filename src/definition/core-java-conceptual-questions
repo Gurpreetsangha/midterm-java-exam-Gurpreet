@@ -304,7 +304,7 @@ Difference between jUnit and testNG?
      Testng is java based framework but junit open source unit testing framework in java.
 
 What are the dependencies for this project?
---> junit and java hamcrest
+--> junit, hamcrest-core and mysql-connector.
 
 what is dependency injection in java?
 --> it is technique where one object supply the dependency to another object.
